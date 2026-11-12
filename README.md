@@ -2,6 +2,8 @@
 
 A responsive, single-page portfolio introducing my work across AI/ML, Python, web development, and automation.
 
+🌐 **Live site:** [vikasrana1407.github.io/Portfolio](https://vikasrana1407.github.io/Portfolio/)
+
 ## Highlights
 
 - Responsive portfolio layout with section-based navigation
